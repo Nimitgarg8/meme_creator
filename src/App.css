@@ -1,4 +1,4 @@
-.App {
+/*.App {
   text-align: center;
 }
 
@@ -35,4 +35,86 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+@font-face {
+  font-family: AlfaSlab;
+  src: url(../public/AlfaSlabOne-Regular.ttf);
 }
+
+.AlfaSlab{
+  font-family: AlfaSlab;
+}
+
+@font-face {
+  font-family: Monoton;
+  src: url(../public/Monoton-Regular.ttf);
+}
+
+.Monoton{
+  font-family: Monoton;
+}
+
+@font-face {
+  font-family: Electro;
+  src: url(../public/Electrolize-Regular.ttf);
+}
+
+.Electro{
+  font-family: Electro;
+}
+
+@font-face {
+  font-family: BlackOps;
+  src: url(../public/BlackOpsOne-Regular.ttf);
+}
+
+.BlackOps{
+  font-family: BlackOps;
+}
+
+@font-face {
+  font-family: SirinSten;
+  src: url(../public/SirinStencil-Regular.ttf);
+}
+
+.SirinSten{
+  font-family: SirinSten;
+}
+
+@font-face {
+  font-family: Nixie;
+  src: url(../public/NixieOne-Regular.ttf);
+}
+
+.Nixie{
+  font-family: Nixie;
+}
+
+@font-face {
+  font-family: Vesper;
+  src: url(../public/VesperLibre-Regular.ttf);
+}
+
+.Vesper{
+  font-family: Vesper;
+}
+
+@font-face {
+  font-family: Coiny;
+  src: url(../public/Coiny-Regular.ttf);
+}
+
+.Coiny{
+  font-family: Coiny;
+}
+
+@font-face {
+  font-family: TiltWarp;
+  src: url(../public/TiltWarp-Regular-VariableFont_XROT\,YROT.ttf);
+}
+
+.TiltWarp{
+  font-family: TiltWarp;
+}
+
